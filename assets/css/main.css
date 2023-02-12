@@ -1994,6 +1994,7 @@ section {
 
 .hero .icon-boxes {
   padding-bottom: 60px;
+  margin-top: -40px;
 }
 
 @media (min-width: 1200px) {
