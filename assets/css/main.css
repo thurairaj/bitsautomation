@@ -1994,10 +1994,14 @@ section {
 
 .hero .icon-boxes {
   padding-bottom: 60px;
-  margin-top: -40px;
+ 
 }
 
 @media (min-width: 1200px) {
+  .hero .icon-boxes {
+     margin-top: -100px;
+  }
+
   .hero .icon-boxes:before {
     content: "";
     position: absolute;
