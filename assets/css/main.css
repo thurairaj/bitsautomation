@@ -2017,7 +2017,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #ffaa13;
+  background: #fff;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
@@ -2050,13 +2050,15 @@ section {
 }
 
 .hero .icon-box:hover {
-  background: #009786;
+  background: #000;
 }
 
 .hero .icon-box:hover .title a,
-.hero .icon-box:hover .icon {
-  color: #000;
+.hero .icon-box:hover .icon,
+.hero .icon-box:hover p {
+  color: #fff;
 }
+
 
 /*--------------------------------------------------------------
 # Blog
