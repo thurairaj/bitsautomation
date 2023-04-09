@@ -1762,6 +1762,7 @@ section {
   background-color: var(--color-primary);
   margin-bottom: 20px;
   padding: 20px;
+  padding-right: 64px;
   border-radius: 10px;
   color: #000;
 }
